@@ -2,7 +2,7 @@
 **CODE__PEARL**
 
 [!signal_to_noise_demo.png]image
-![signal_to_noise_demo.png]!image
+![signal_to_noise_demo.png](signal_to_noise_demo.png)
 A lightweight Python indicator that measures how much of each OHLC candle is **signal** (body) versus **noise** (wick). Inspired by Ken Long's signal-to-noise framing for market regimes.
 
 The idea: in a clean, directional market, candles close near their extremes — big bodies, small wicks. In choppy, mean-reverting conditions, price gets rejected — small bodies, long wicks. The SNR indicator turns that observation into a single number you can plot and monitor.
