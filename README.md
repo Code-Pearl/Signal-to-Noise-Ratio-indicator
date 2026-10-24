@@ -1,7 +1,7 @@
 # Signal-to-Noise Ratio Indicator
 **CODE__PEARL**
 
-[!signal_to_noise_demo.png]image
+
 ![signal_to_noise_demo.png](signal_to_noise_demo.png)
 A lightweight Python indicator that measures how much of each OHLC candle is **signal** (body) versus **noise** (wick). Inspired by Ken Long's signal-to-noise framing for market regimes.
 
